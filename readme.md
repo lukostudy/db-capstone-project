@@ -50,6 +50,11 @@ CreateVirtualTable_Task3.sql
 CreateOptimizedQueries_Task1.sql
 - creates a procedure that displays the maximum ordered quantity in the Orders table. 
 ```
+### Task2
+```
+CreateOptimizedQueries_Task2.sql
+- creates a prepared statement called GetOrderDetail.
+```
 
 
 
