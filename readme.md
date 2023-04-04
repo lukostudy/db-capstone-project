@@ -39,6 +39,11 @@ CreateVirtualTable_Task1.sql
 CreateVirtualTable_Task2.sql  
 - SQL query that presents customers with orders that cost more than $150
 ```
+### Task3
+```
+CreateVirtualTable_Task3.sql
+- SQL query that presents menu items for which more than 2 orders have been placed
+```
 
 
 
