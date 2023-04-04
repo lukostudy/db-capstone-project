@@ -81,5 +81,8 @@ BookingsCheck_Task1.sql
 BookingsCheck_Task2.sql
 - create CheckBooking procedure
 
+### Task3
+BookingsCheck_Task3.sql
+- create AddValidBooking procedure
 
 
