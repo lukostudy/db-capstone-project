@@ -44,6 +44,12 @@ CreateVirtualTable_Task2.sql
 CreateVirtualTable_Task3.sql
 - SQL query that presents menu items for which more than 2 orders have been placed
 ```
+## Exercise: Create optimized queries to manage and analyze data
+### Task1
+```
+CreateOptimizedQueries_Task1.sql
+- creates a procedure that displays the maximum ordered quantity in the Orders table. 
+```
 
 
 
