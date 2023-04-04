@@ -27,6 +27,39 @@ show databases; - LittleLemonDB is on the list
 a few test queries has been run - worked fine  
 ```
 
+# Week2
+## Exercise: Create a virtual table to summarize data
+### Task1
+```
+CreateVirtualTable_Task1.sql
+- creates OrdersView that presents orders with quantity > 2
+```
+### Task2
+```
+CreateVirtualTable_Task2.sql  
+- SQL query that presents customers with orders that cost more than $150
+```
+### Task3
+```
+CreateVirtualTable_Task3.sql
+- SQL query that presents menu items for which more than 2 orders have been placed
+```
+## Exercise: Create optimized queries to manage and analyze data
+### Task1
+```
+CreateOptimizedQueries_Task1.sql
+- creates a procedure that displays the maximum ordered quantity in the Orders table. 
+```
+### Task2
+```
+CreateOptimizedQueries_Task2.sql
+- creates a prepared statement called GetOrderDetail.
+```
+### Task3
+```
+CreateOptimizedQueries_Task3.sql
+- creates a stored procedure called CancelOrder.
+```
 
 
 
