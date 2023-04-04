@@ -34,6 +34,11 @@ a few test queries has been run - worked fine
 CreateVirtualTable_Task1.sql
 - creates OrdersView that presents orders with quantity > 2
 ```
+### Task2
+```
+CreateVirtualTable_Task2.sql  
+- SQL query that presents customers with orders that cost more than $150
+```
 
 
 
