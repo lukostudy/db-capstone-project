@@ -27,6 +27,13 @@ show databases; - LittleLemonDB is on the list
 a few test queries has been run - worked fine  
 ```
 
+# Week2
+## Exercise: Create a virtual table to summarize data
+### Task1
+```
+CreateVirtualTable_Task1.sql
+- creates OrdersView that presents orders with quantity > 2
+```
 
 
 
