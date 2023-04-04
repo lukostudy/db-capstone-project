@@ -60,11 +60,23 @@ CreateOptimizedQueries_Task2.sql
 CreateOptimizedQueries_Task3.sql
 - creates a stored procedure called CancelOrder.
 ```
+## Exercise: Create SQL queries to check available bookings based on user input
+### Task1
+```
+Remarks:
+1.
+In the designed and implemented LittleLemonDB there have been already many Bookings records generated and used by the author to test the database. To run Task1, all records related to the dates and BookingIDs used in the task are deleted at the beginning of the SQL script prepared for Task1.
+2.
+Index was added for BookingDate in the Bookings table to improve efficiency since BookingDate can be used extensively for searching. This update was also made in the LittleLemodDM.mwb file. 
+3.
+The designed and implemented Bookings table stores also information about the Staff person who made the booking. Thus the INSERT SQL statements contain one more column to fill.
 
-
-
-
-
+BookingsCheck_Task1.sql
+- create the index mentioned in the remarks
+- delete records mentioned in the remarks
+- run INSERT statements
+- select inserted records from the Booking table
+```
 
 
 
