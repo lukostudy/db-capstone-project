@@ -55,6 +55,11 @@ CreateOptimizedQueries_Task1.sql
 CreateOptimizedQueries_Task2.sql
 - creates a prepared statement called GetOrderDetail.
 ```
+### Task3
+```
+CreateOptimizedQueries_Task3.sql
+- creates a stored procedure called CancelOrder.
+```
 
 
 
