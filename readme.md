@@ -77,8 +77,9 @@ BookingsCheck_Task1.sql
 - run INSERT statements
 - select inserted records from the Booking table
 ```
-
-
+### Task2
+BookingsCheck_Task2.sql
+- create CheckBooking procedure
 
 
 
