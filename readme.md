@@ -94,6 +94,12 @@ BookingsAddUpdate_Task1.sql
 - implement procedure AddBooking
 - more details in comments in the file with the code
 ```
+### Task2
+```
+BookingsAddUpdate_Task2.sql
+- implement procedure UpdateBooking
+- more details in comments in the file with the code
+```
 
 
 
