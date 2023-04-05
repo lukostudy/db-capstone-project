@@ -85,4 +85,15 @@ BookingsCheck_Task2.sql
 BookingsCheck_Task3.sql
 - create AddValidBooking procedure
 
+## Exercise: Create SQL queries to add and update bookings
+### Task1
+```
+BookingsAddUpdate_Task1.sql
+- implement a few supporting functions
+- add one unique constraint to improve data consistency
+- implement procedure AddBooking
+- more details in comments in the file with the code
+```
+
+
 
