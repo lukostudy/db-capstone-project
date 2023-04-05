@@ -100,6 +100,12 @@ BookingsAddUpdate_Task2.sql
 - implement procedure UpdateBooking
 - more details in comments in the file with the code
 ```
+### Task3
+```
+BookingsAddUpdate_Task3.sql
+- implement procedure CancelBooking
+- more details in comments in the file with the code
+```
 
 
 
