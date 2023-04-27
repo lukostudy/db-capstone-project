@@ -113,10 +113,15 @@ BookingsAddUpdate_Task3.sql
 ```
 - data_LittleLemon.xlsx loaded into Tableau
 - data filter added: country = US  
+```
 ### Task2
 ```
 - column Full Name split into two columns: First Name, Last Name
 ```
+### Task3
 ```
+- add calculated column Profit
+```
+
 
 
