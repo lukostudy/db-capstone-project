@@ -107,5 +107,46 @@ BookingsAddUpdate_Task3.sql
 - more details in comments in the file with the code
 ```
 
+# Week3
+## Exercise: Set up the Tableau Workspace for data analysis
+### Task1
+```
+- data_LittleLemon.xlsx loaded into Tableau
+- Tableau file: data_LittleLemon_visualisation.twb is used for all the following tasks
+- data filter added: country = US  
+```
+### Task2
+```
+- column Full Name split into two columns: First Name, Last Name
+```
+### Task3
+```
+- add calculated column Profit
+```
+
+## Exercise: Create interactive dashboard for sales and profits
+### Task1
+```
+- Create a bar chart that shows customers sales
+```
+### Task2
+```
+- create a line chart to show the sales trend from 2019 to 2022
+```
+### Task3
+```
+- create a Bubble chart of sales for all customers
+```
+### Task4
+```
+- compare the sales of the three different cuisines
+```
+### Task5
+```
+- create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart
+```
+
+
+
 
 
