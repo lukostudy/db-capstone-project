@@ -123,5 +123,11 @@ BookingsAddUpdate_Task3.sql
 - add calculated column Profit
 ```
 
+## Exercise: Create interactive dashboard for sales and profits
+### Task1
+```
+- Create a bar chart that shows customers sales
+```
+
 
 
