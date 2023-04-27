@@ -107,5 +107,11 @@ BookingsAddUpdate_Task3.sql
 - more details in comments in the file with the code
 ```
 
+# Week3
+## Exercise: Set up the Tableau Workspace for data analysis
+### Task1
+```
+.............
+```
 
 
