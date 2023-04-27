@@ -137,8 +137,10 @@ BookingsAddUpdate_Task3.sql
 ```
 - create a Bubble chart of sales for all customers
 ```
-
-
+### Task4
+```
+- compare the sales of the three different cuisines
+```
 
 
 
