@@ -128,6 +128,14 @@ BookingsAddUpdate_Task3.sql
 ```
 - Create a bar chart that shows customers sales
 ```
+### Task2
+```
+- create a line chart to show the sales trend from 2019 to 2022
+```
+
+
+
+
 
 
 
