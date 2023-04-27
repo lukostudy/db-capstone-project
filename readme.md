@@ -141,6 +141,11 @@ BookingsAddUpdate_Task3.sql
 ```
 - compare the sales of the three different cuisines
 ```
+### Task5
+```
+- create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart
+```
+
 
 
 
