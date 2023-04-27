@@ -112,6 +112,7 @@ BookingsAddUpdate_Task3.sql
 ### Task1
 ```
 - data_LittleLemon.xlsx loaded into Tableau
+- Tableau file: data_LittleLemon_visualisation.twb is used for all the following tasks
 - data filter added: country = US  
 ```
 ### Task2
@@ -132,7 +133,10 @@ BookingsAddUpdate_Task3.sql
 ```
 - create a line chart to show the sales trend from 2019 to 2022
 ```
-
+### Task3
+```
+- create a Bubble chart of sales for all customers
+```
 
 
 
