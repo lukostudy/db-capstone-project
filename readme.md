@@ -111,7 +111,12 @@ BookingsAddUpdate_Task3.sql
 ## Exercise: Set up the Tableau Workspace for data analysis
 ### Task1
 ```
-.............
+- data_LittleLemon.xlsx loaded into Tableau
+- data filter added: country = US  
+### Task2
+```
+- column Full Name split into two columns: First Name, Last Name
+```
 ```
 
 
