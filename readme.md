@@ -146,7 +146,22 @@ BookingsAddUpdate_Task3.sql
 - create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart
 ```
 
-
+## Exercise: Set up the client project
+### Task 1,2,3
+```
+- checking python version - done
+- jupyter notebook installed
+- mysql-connector-python installed
+- mysql-connection verified successfully
+```
+## Exercise: Add query functions
+### Task 1,2,3
+```
+- all tasks are in the file DatabaseClient.ipynb
+- connect with your database - done
+- query the database to show all tables within the database - done
+- query the database to show customers with orders over 60$ - done
+```
 
 
 
