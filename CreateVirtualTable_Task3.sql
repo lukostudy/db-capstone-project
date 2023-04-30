@@ -9,4 +9,5 @@ FROM Menus m
 WHERE m.MenuID = ANY (	SELECT MenuID
 						FROM Orders
 						GROUP BY MenuID
-						HAVING COUNT(OrderID) > 2 ) 
+						HAVING COUNT(OrderID) > 2 )
+;

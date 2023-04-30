@@ -17,3 +17,4 @@ JOIN LittleLemonDB.MenusSelection ms on ms.MenuID = m.MenuID
 JOIN LittleLemonDB.MenuItems mi on mi.MenuItemID = ms.MenuItemID
 WHERE ms.MenuSelCatID = 2 AND o.TotalCost > 150
 ORDER BY TotalCost ASC
+;
